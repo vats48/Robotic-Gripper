@@ -1,0 +1,6 @@
+Robot Gripper
+
+This is my submission for the Robot Gripper task
+I've added an extra pair of arms for better object handling and because 2 >>>>> 1
+
+Google Drive Link: https://drive.google.com/drive/folders/11Q8z5rAR2zfZxKJjbIasRqFY30gGI-uX?usp=sharing
